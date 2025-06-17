@@ -16,3 +16,6 @@ Avaliação de Expressões: Criaremos a função getValorPosFixa para calcular o
 Operadores Suportados:
 Básicos: +, -, *, /, %.
 Especiais (um operando): raiz (raiz quadrada), sen, cos, tg (seno, cosseno, tangente) e log (logaritmo na base 10). Os ângulos para as funções trigonométricas serão em graus.
+
+`DOCUMENTO` 
+[TP03 - Avaliador de expressões numéricas.pdf](https://github.com/user-attachments/files/20784037/TP03.-.Avaliador.de.expressoes.numericas.pdf)
