@@ -1,4 +1,4 @@
-ara atingir o objetivo, vamos seguir os seguintes passos:
+Para atingir o objetivo, vamos seguir os seguintes passos:
 
 Estrutura do Projeto: Conforme solicitado, o nosso código será dividido em três arquivos para garantir a modularidade e organização:
 
